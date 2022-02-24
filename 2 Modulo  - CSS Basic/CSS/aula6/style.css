@@ -1,0 +1,18 @@
+body {
+    background: #dfdfdf;
+}
+p {
+    color: rgb(34, 34, 34);
+}
+
+.foto-principal {
+    width: 100px;
+    border: 2px solid blue;
+    border-radius: 10% 20% 30% 40%;
+    margin: 30px;
+    padding: 10px;
+
+    /* padding e o espassamento interno 
+    entre a foto e a margin
+    */
+}

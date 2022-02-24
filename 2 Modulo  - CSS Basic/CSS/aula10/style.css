@@ -1,0 +1,38 @@
+body {
+    background: #dfdfdf;
+    font-family: "Raleway", sans-serif;
+    color: black;
+}
+
+.container {
+    width: 900px;
+    margin: 0 auto;
+}
+
+.foto-principal {
+    width: 100px;
+    border: 2px solid rgb(90, 4, 4);
+    border-radius: 20% 20% 20% 20%;
+    margin: 30px;
+    padding: 10px;
+
+}
+
+h1{
+    margin-bottom: 0;
+    font-style: italic;
+    color:rgb(15, 15, 15);
+    letter-spacing: -2px;
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-size: 40px;
+}
+h2 {
+    margin-top: 0;
+    font-style: italic;
+    color: rgb(199, 35, 103);
+    font-weight: 100;
+    letter-spacing: -1px;
+}
+p{
+    line-height: 25px;
+}
